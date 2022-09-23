@@ -1,0 +1,29 @@
+
+.allnote{
+  margin-top: 20px; 
+  border:primary;
+  margin-bottom: 20px;
+}
+.button{
+  display: flex;
+  
+}
+.delt{
+  text-align: end;
+  align-items: flex-end;
+}
+/* .TextArea{
+  tre
+  
+} */
+.allnoteBt{
+  margin-top: 5px; 
+  
+  margin-bottom: 2px;
+}
+.allnoteBtformcard{
+  margin-right: 10px; 
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
